@@ -1,0 +1,7 @@
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\bin\Debug\StringToArray.exe.config
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\bin\Debug\StringToArray.exe
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\bin\Debug\StringToArray.pdb
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\obj\Debug\StringToArray.csproj.AssemblyReference.cache
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\obj\Debug\StringToArray.csproj.CoreCompileInputs.cache
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\obj\Debug\StringToArray.exe
+C:\Users\Tanay\source\repos\StringToArray\StringToArray\obj\Debug\StringToArray.pdb

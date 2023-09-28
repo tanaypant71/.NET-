@@ -1,0 +1,7 @@
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\bin\Debug\Deliagtes.exe.config
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\bin\Debug\Deliagtes.exe
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\bin\Debug\Deliagtes.pdb
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\obj\Debug\Deliagtes.csproj.AssemblyReference.cache
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\obj\Debug\Deliagtes.csproj.CoreCompileInputs.cache
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\obj\Debug\Deliagtes.exe
+C:\Users\Tanay\source\repos\Deliagtes\Deliagtes\obj\Debug\Deliagtes.pdb

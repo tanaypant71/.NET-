@@ -1,0 +1,7 @@
+C:\Users\Tanay\source\repos\GetSet\GetSet\bin\Debug\GetSet.exe.config
+C:\Users\Tanay\source\repos\GetSet\GetSet\bin\Debug\GetSet.exe
+C:\Users\Tanay\source\repos\GetSet\GetSet\bin\Debug\GetSet.pdb
+C:\Users\Tanay\source\repos\GetSet\GetSet\obj\Debug\GetSet.csproj.AssemblyReference.cache
+C:\Users\Tanay\source\repos\GetSet\GetSet\obj\Debug\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Tanay\source\repos\GetSet\GetSet\obj\Debug\GetSet.exe
+C:\Users\Tanay\source\repos\GetSet\GetSet\obj\Debug\GetSet.pdb

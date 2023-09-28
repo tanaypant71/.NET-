@@ -1,0 +1,7 @@
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\bin\Debug\MultiCast Deligates.exe.config
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\bin\Debug\MultiCast Deligates.exe
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\bin\Debug\MultiCast Deligates.pdb
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\obj\Debug\MultiCast Deligates.csproj.AssemblyReference.cache
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\obj\Debug\MultiCast Deligates.csproj.CoreCompileInputs.cache
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\obj\Debug\MultiCast Deligates.exe
+C:\Users\Tanay\source\repos\MultiCast Deligates\MultiCast Deligates\obj\Debug\MultiCast Deligates.pdb
